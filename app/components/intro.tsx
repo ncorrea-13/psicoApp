@@ -181,7 +181,7 @@ export default function Intro({ onScrollEnd }: { onScrollEnd: () => void }) {
           {/* Botón "Empezar" en la última sección */}
           {index === sections.length - 1 && (
             <motion.button
-              className="relative top-20 left-[130px]  bg-white text-blue-500 px-6 py-2 rounded-full shadow-lg relative overflow-hidden transition-transform"
+              className="top-20 left-[130px]  bg-white text-blue-500 px-6 py-2 rounded-full shadow-lg relative overflow-hidden transition-transform"
               onClick={handleBubbleClick}
               animate={isExploding ? { scale: [1, 1.2, 0], opacity: [1, 0.5, 0] } : {}}
               transition={{ duration: 0.5, ease: "easeInOut", times: [0, 0.5, 1] }}
