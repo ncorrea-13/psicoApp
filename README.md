@@ -1,36 +1,45 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+  # PsicoApp
 
-First, run the development server:
+</div>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# Presentación
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Este proyecto fue presentado para la Hackaton realizada en el evento AIWeekend sucedido en Mendoza los días 21, 22 y 23 de febrero.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# Descripción
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+El proyecto cuenta de un chatbot como primer entregable con el cual se realiza una presentación del paciente, para poder realizar un match con el mejor psicólogo según la situación que esté atravezando la persona.
 
-## Learn More
+Puede acceder al video presentando la demo del proyecto <a href="https://drive.google.com/file/d/1TuK4Fxj2Y1iaVgcqMc3tzqUOcLhkJqO3/view" target="_blank">aquí</a>.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Puede acceder a las slides utilizadas para presentar el proyecto <a href="https://gamma.app/docs/Revolucionando-el-Acceso-a-la-Terapia-nu79kntku5h4m4v?mode=present#card-oqgbm5l40mpyuy6" target="_blank">aquí</a>.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Mi rol principalmente se enfocó en el trabajo de front, tanto en las visuales previas al chat como algunas preguntas las cuales fueron descartadas, pero decidimos concervar el código ante la posibilidad de ampliarse. 
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+###
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<h1 align="center">Muchas gracias</h1>
+
+###
+
+<h2 align="left">Puede contactarme en</h2>
+
+###
+
+<div align="center">
+  <a href="mailto:nicolascorrea1910@gmail.com?Subject=Message%20from%20GitHub" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  /> 
+  </a>
+  <a href="https://www.linkedin.com/in/nicolas-correa-serrat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> 
+  </a>
+  <a href="https://wa.me/5492613400264?text=I'm%20interested%20in%20your%20GitHub%20profile " target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+  </a>
+</div>
+
+###
